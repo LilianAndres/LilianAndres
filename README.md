@@ -8,7 +8,7 @@
 📧: you can [ask me](mailto:andres.universite@gmail.com) about what you want, I'm here to learn ! <br>
 
 🔨: Recent work <br><br>
-<a href="https://github.com/Branlito/branlito"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=Branlito&repo=branlito&show_owner=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=aaa" /></a>
+<a href="https://github.com/branlito/branlito"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=branlito&repo=branlito&show_owner=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=aaa" /></a>
 
 <br>
 <br>
@@ -48,7 +48,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's github stats" width="40%">
+    <img src="https://github-readme-stats.vercel.app/api?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's github stats" width="40%">
 </p>
 
 <br>
@@ -61,6 +61,6 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's preferred languages" width="40%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's preferred languages" width="40%">
 </p>
 
