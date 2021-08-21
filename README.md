@@ -41,18 +41,24 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+<p align="center">
+    :zap: GitHub Stats :zap:
+</p>
 
-<br />
+<br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's github stats" width="40%">
 </p>
 
+<br>
+<br>
 
-<summary>:zap: Most Used Languages</summary>
+<p align="center">
+    :zap: Most Used Languages :zap:
+</p>
 
-<br />
+<br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's preferred languages" width="40%">
