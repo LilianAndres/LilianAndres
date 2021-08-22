@@ -7,14 +7,14 @@
 
 ## 🙋‍♂️ About Me 
 
-- 😃: french student and passionate about computers and programming 
-- 🎓: IUT Informatique Lyon 1 (third semester) 
-- 💻: Linux beginner (but I also work with Windows)
-- 🌱: I'm currently working on my projects portfolio
-- 💥: I play video games... 
-- 🎾: ... and racket sports
-- 📚: I also enjoy mangas  
-- 📫: you can [ask me](mailto:andres.universite@gmail.com) about anything you want
+- 😃: **french student** and passionate about computers and programming 
+- 🎓: **IUT Informatique Lyon 1 (third semester)**
+- 💻: **Linux beginner** (but I also work with **Windows**)
+- 🌱: I'm currently working on my projects **portfolio**
+- 💥: I play **video games**... 
+- 🎾: ... and **racket sports**
+- 📚: I also enjoy **mangas**  
+- 📫: you can [ask me](mailto:andres.universite@gmail.com) about **anything** you want
 
 ## 🚀 Languages and Tools:
 
