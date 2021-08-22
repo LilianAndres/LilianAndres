@@ -1,4 +1,4 @@
-### Hi there, I'm branlito ! <br>
+### Hi there, I'm branlito ! 🤙  <br>
 
 😃: french student and passionate about computers and programming <br>
 🎓: IUT Informatique Lyon 1 (third semester) <br>
