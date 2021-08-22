@@ -7,9 +7,11 @@
 🎾: ... and racket sports  <br>
 📧: you can [ask me](mailto:andres.universite@gmail.com) about what you want, I'm here to learn ! <br>
 
-🔨: Recent work <br><br>
-<a href="https://github.com/branlito/branlito"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=branlito&repo=branlito&show_owner=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=aaa" /></a>
-<a href="https://github.com/branlito/awareness-campaign-website"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=branlito&repo=awareness-campaign-website&show_owner=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=aaa" /></a>
+---
+
+🔨: Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
 <br>
@@ -49,14 +51,13 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's github stats" width="40%">
+    <img src="https://github-readme-stats.vercel.app/api?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="branlito's github stats" width="50%">
 </p>
 
 <br>
-<br>
 
 <p align="center">
-    :zap: Most Used Languages :zap:
+    :zap: Top Languages :zap:
 </p>
 
 <br>
