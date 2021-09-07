@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README (Wakatime Coding Stats Tracker)
+    name: Update this repo's README Wakatime tracker
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
