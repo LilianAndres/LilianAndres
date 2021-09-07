@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/jamesgeorge007/github-activity-readme/issues/63) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Opened issue [#224](https://github.com/anmol098/waka-readme-stats/issues/224) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <br>
