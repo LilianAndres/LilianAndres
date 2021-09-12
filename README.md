@@ -60,11 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-```text
-HTML         25 mins         ████████████░░░░░░░░░░░░░   47.83 % 
-JavaScript   16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.49 % 
-CSS          12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.68 % 
-```
 <!--END_SECTION:waka-->
 
 <br>
