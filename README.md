@@ -40,7 +40,7 @@
 
 <br>
 
-## 📊 My Github Stats
+## 📊 My Github Stats (publics repo)
 
 <br>
 
@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On (global stats, not only based on Github repo)** 
 
 ```text
 💬 Programming Languages: 
