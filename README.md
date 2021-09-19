@@ -45,8 +45,8 @@
 <br>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="branlito's github stats" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" alt="branlito's preferred languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="branlito's github stats" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" alt="branlito's preferred languages" width="49%" height="185">
 </p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
