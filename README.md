@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Branlito</h1>
-<h3 align="center">I'm a passionate (student) Full Stack Developer from France.</h3>
+<h3 align="center">I'm a passionate (student) Developer from France.</h3>
 
 ## 🙋‍♂️ About Me 
 
