@@ -2,7 +2,7 @@
     <a href="#"><img width="40%" height="auto" src="https://i.imgur.com/VUdtODV.jpeg" /></a>
 </p>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Branlito</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lilian</h1>
 <h3 align="center">I'm a passionate (student) Developer from France.</h3>
 
 ## 🙋‍♂️ About Me 
@@ -45,8 +45,8 @@
 <br>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="branlito's github stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=branlito&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" alt="branlito's preferred languages" width="49%" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=LilianAndres&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="lilian's github stats" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LilianAndres&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" alt="lilian's preferred languages" width="49%" height="180">
 </p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
@@ -90,6 +90,6 @@ Windows                  9 hrs 29 mins       ███████████�
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=branlito">
+    <img src="https://komarev.com/ghpvc/?username=LilianAndres">
 </a>
-<a href="https://github.com/branlito?tab=followers"><img src="https://img.shields.io/github/followers/branlito?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/LilianAndres?tab=followers"><img src="https://img.shields.io/github/followers/LilianAndres?label=Followers&style=social" alt="GitHub Badge"></a>
