@@ -60,22 +60,27 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2036%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 49 mins       █████████████████████░░░░   87.29% 
+ObjectiveC               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    3 hrs 14 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/03/2022 01:12:48 UTC
+ Last Updated on 02/03/2022 04:23:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
