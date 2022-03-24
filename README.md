@@ -60,7 +60,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2022%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -82,7 +82,7 @@ Windows                  18 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 24/03/2022 08:22:53 UTC
+ Last Updated on 24/03/2022 12:33:11 UTC
 <!--END_SECTION:waka-->
 
 <br>
