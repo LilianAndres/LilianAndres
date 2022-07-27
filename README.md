@@ -8,13 +8,13 @@
 ## 🙋‍♂️ About Me 
 
 - 😃: **french student** and passionate about computers and programming 
-- 🎓: **IUT Informatique Lyon 1 (third semester)**
-- 💻: **Linux beginner** (but I also work with **Windows**)
+- 🎓: **Engineer School in Tech at CPE Lyon**
+- 💻: **macOS developper** (but I also work with **Windows** and **Linux**)
 - 🌱: I'm currently working on my projects **portfolio**
 - 💥: I play **video games**... 
 - 🎾: ... and **racket sports**
 - 📚: I also enjoy **mangas**  
-- 📫: you can [ask me](mailto:andres.universite@gmail.com) about **anything** you want
+- 📫: you can [ask me](mailto:contact@lilian-andres.fr) about **anything** you want
 
 <br>
 
