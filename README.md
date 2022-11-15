@@ -66,19 +66,18 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     32 mins             ███████████████████████░░   94.96% 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 15/11/2022 01:44:52 UTC
+ Last Updated on 15/11/2022 04:27:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
