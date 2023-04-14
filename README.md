@@ -66,18 +66,17 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               13 mins             █████████████████████████   99.83 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2023 01:13:57 UTC
+ Last Updated on 14/04/2023 04:17:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
