@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#224](https://github.com/anmol098/waka-readme-stats/issues/224) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. ❌ Closed PR [#2](https://github.com/cpe-lyon/CPE-2223-3ICS-POO_FilRouge/pull/2) in [cpe-lyon/CPE-2223-3ICS-POO_FilRouge](https://github.com/cpe-lyon/CPE-2223-3ICS-POO_FilRouge)
 <!--END_SECTION:activity-->
 
 <br>
