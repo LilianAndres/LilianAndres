@@ -66,17 +66,17 @@
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/05/2023 01:12:19 UTC
+ Last Updated on 13/05/2023 04:17:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
