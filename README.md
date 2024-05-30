@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/cpe-lyon/CPE-2223-3ICS-POO_FilRouge/pull/2) in [cpe-lyon/CPE-2223-3ICS-POO_FilRouge](https://github.com/cpe-lyon/CPE-2223-3ICS-POO_FilRouge)
+1. 🎉 Merged PR [#17](https://github.com/crab-chilling/enfriamiento-de-cangrejo/pull/17) in [crab-chilling/enfriamiento-de-cangrejo](https://github.com/crab-chilling/enfriamiento-de-cangrejo)
 <!--END_SECTION:activity-->
 
 <br>
