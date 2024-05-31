@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/crab-chilling/enfriamiento-de-cangrejo/pull/17) in [crab-chilling/enfriamiento-de-cangrejo](https://github.com/crab-chilling/enfriamiento-de-cangrejo)
+1. 💪 Opened PR [#18](https://github.com/crab-chilling/enfriamiento-de-cangrejo/pull/18) in [crab-chilling/enfriamiento-de-cangrejo](https://github.com/crab-chilling/enfriamiento-de-cangrejo)
 <!--END_SECTION:activity-->
 
 <br>
