@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/crab-chilling/enfriamiento-de-cangrejo/pull/18) in [crab-chilling/enfriamiento-de-cangrejo](https://github.com/crab-chilling/enfriamiento-de-cangrejo)
+1. 🎉 Merged PR [#3](https://github.com/LilianAndres/gym-tracker-api/pull/3) in [LilianAndres/gym-tracker-api](https://github.com/LilianAndres/gym-tracker-api)
 <!--END_SECTION:activity-->
 
 <br>
