@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/LilianAndres/gym-tracker-api/pull/3) in [LilianAndres/gym-tracker-api](https://github.com/LilianAndres/gym-tracker-api)
+1. 🎉 Merged PR [#4](https://github.com/LilianAndres/gym-tracker-api/pull/4) in [LilianAndres/gym-tracker-api](https://github.com/LilianAndres/gym-tracker-api)
 <!--END_SECTION:activity-->
 
 <br>
