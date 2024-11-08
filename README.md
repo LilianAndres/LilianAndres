@@ -54,7 +54,7 @@
 ### 🔨: Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/crab-chilling/Krabbenkuhlen/pull/7) in [crab-chilling/Krabbenkuhlen](https://github.com/crab-chilling/Krabbenkuhlen)
+1. 💪 Opened PR [#15](https://github.com/crab-chilling/Krabbenkuhlen/pull/15) in [crab-chilling/Krabbenkuhlen](https://github.com/crab-chilling/Krabbenkuhlen)
 <!--END_SECTION:activity-->
 
 <br>
