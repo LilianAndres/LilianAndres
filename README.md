@@ -3,18 +3,18 @@
 </p>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lilian</h1>
-<h3 align="center">I'm a passionate (student) Developer from France.</h3>
+<h3 align="center">I'm a passionate (student) Data Scientist & Machine Learning engineer from France.</h3>
 
-## 🙋‍♂️ About Me 
+## 🙋‍♂️ About Me
 
-- 😃: **french student** and passionate about computers and programming 
-- 🎓: **Engineer School in Tech at CPE Lyon**
+- 😃: **French student** and passionate about Machine Learning, Deep Learning and applied mathematics
+- 🎓: **Master's Degree for Smart Data Science at ENSAI (Ecole Nationale de la Statistique et de l'Analyse de l'Information)**
 - 💻: **macOS developper** (but I also work with **Windows** and **Linux**)
 - 🌱: I'm currently working on my projects **portfolio**
-- 💥: I play **video games**... 
-- 🎾: ... and **racket sports**
-- 📚: I also enjoy **mangas**  
-- 📫: you can [ask me](mailto:contact@lilian-andres.fr) about **anything** you want
+- 💥: I watch **films and TV shows**... 
+- 🎾: ... and I play all kind of **racket sports**
+- 📚: I enjoy reading and **learning new stuff**
+- 📫: You can [ask me](mailto:lilian.andres02@gmail.com) about **anything** you want
 
 <br>
 
@@ -23,7 +23,7 @@
 <br>
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/id=aR9CXyMagKIS&format=png&color=000000"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
