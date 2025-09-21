@@ -1,88 +1,67 @@
+## Hey there 👋, I'm [Lilian!](https://github.com/LilianAndres/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/lilian-andres-4511791b8)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lilian_ands/)
+
+### Glad to see you here! 
+I am a passionate Computer Science student with a strong interest in Data Science, Machine Learning, and Deep Learning 🤖. 
+
+I enjoy building projects that combine theory with practice — from fundamental neural networks to more advanced applications like natural language processing, computer vision, and recommendation systems. 🚀 
+
+I love exploring how algorithms can solve real-world problems, experimenting with different models, and constantly learning new techniques to improve my skills. Beyond AI, I’m also curious about software engineering, statistics and applied mathematics, always striving to expand my knowledge and apply it creatively. When I’m not coding, you’ll probably find me reading tech articles, playing tennis, or relaxing by watching videos and series. 🌟
+
+😅 A thing I really hate? Not understanding — it keeps me digging until I do! 🔎
+
+<br>
+<hr>
+<br>
+<h3 align="center">✨ « The more you learn, the more you realize how much you don’t know » ✨</h3>
+<br>
+<hr>
+<br>
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with Python, Scikit-Learn and PyTorch.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Ask me anything [here](mailto:lilian.andres02@gmail.com)! I am happy to help.
+- 👾 &nbsp; Fun fact: In Python, `import this` shows the Zen of Python, a collection of guiding principles hidden in the interpreter.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I enjoy applying my skills to meaningful projects that create real value.
+- 📰 &nbsp; Reading & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; I love pizza.
+
+### Languages and Tools:
+
 <p align="center">
-    <a href="#"><img width="40%" height="auto" src="https://i.imgur.com/VUdtODV.jpeg" /></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-77B1A9?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab">
 </p>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lilian</h1>
-<h3 align="center">I'm a passionate (student) Data Scientist & Machine Learning engineer from France.</h3>
+### Dev Stuffs:
 
-## 🙋‍♂️ About Me
-
-- 😃: **French student** and passionate about Machine Learning, Deep Learning and applied mathematics
-- 🎓: **Master's Degree for Smart Data Science at ENSAI (Ecole Nationale de la Statistique et de l'Analyse de l'Information)**
-- 💻: **macOS developper** (but I also work with **Windows** and **Linux**)
-- 🌱: I'm currently working on my projects **portfolio**
-- 💥: I watch **films and TV shows**... 
-- 🎾: ... and I play all kind of **racket sports**
-- 📚: I enjoy reading and **learning new stuff**
-- 📫: You can [ask me](mailto:lilian.andres02@gmail.com) about **anything** you want
+<ul>
+    <li><b>OS:</b> MacOS 15 Sequoia</li>
+    <li><b>Laptop: </b> Macbook Pro M1 Pro</li>
+    <li><b>Browser: </b> Firefox & Safari</li>
+    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+    <li><b>Code Editor:</b> Jupyter Notebook - The best editor out there</li>
+    <li><b>To Stay Updated:</b> YouTube, Korben and Hacker News</li>
+</ul>
 
 <br>
 
-## 🚀 Languages and Tools:
+<div align="center">
+    
+### Show some ❤️ by starring some of the repositories!
 
-<br>
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/id=aR9CXyMagKIS&format=png&color=000000"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.ubuntu-fr.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
-    <a href="https://www.microsoft.com/fr-fr/software-download/windows10" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/console.png"/> </a>
-</p>
-
-<br>
-
-## 📊 My Github Stats (publics repo)
-
-<br>
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LilianAndres&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="lilian's github stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LilianAndres&hide_border=true&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" alt="lilian's preferred languages" width="49%" height="180">
-</p>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-
-### 🔨: Recent activities
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/crab-chilling/Krabbenkuhlen/pull/15) in [crab-chilling/Krabbenkuhlen](https://github.com/crab-chilling/Krabbenkuhlen)
-<!--END_SECTION:activity-->
-
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2014%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 21/09/2025 12:37:44 UTC
-<!--END_SECTION:waka-->
-
-<br>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=LilianAndres">
-</a>
-<a href="https://github.com/LilianAndres?tab=followers"><img src="https://img.shields.io/github/followers/LilianAndres?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
